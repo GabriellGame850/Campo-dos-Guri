@@ -1,0 +1,13 @@
+body {
+    background-image: url(/Imagens/EndGame.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+    margin: 5px 25% 0 25%;
+    width: 721px;
+}
+
